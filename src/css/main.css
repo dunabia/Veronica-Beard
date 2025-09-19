@@ -314,6 +314,193 @@ div#yotpo-reviews-main-widget[class*="yotpo-display-"][class*="yotpo-device-"] .
     font-weight: 400;
 }
 
+@font-face {
+font-family:"freight-display-pro";
+src:url("https://use.typekit.net/af/b5dc69/000000000000000077359f9c/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/b5dc69/000000000000000077359f9c/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/b5dc69/000000000000000077359f9c/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-display-pro";
+src:url("https://use.typekit.net/af/19483f/000000000000000077359f9f/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/19483f/000000000000000077359f9f/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/19483f/000000000000000077359f9f/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-display-pro";
+src:url("https://use.typekit.net/af/2c7224/000000000000000077359fa2/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/2c7224/000000000000000077359fa2/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/2c7224/000000000000000077359fa2/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-display-pro";
+src:url("https://use.typekit.net/af/7c67b5/000000000000000077359fa5/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff2"),url("https://use.typekit.net/af/7c67b5/000000000000000077359fa5/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff"),url("https://use.typekit.net/af/7c67b5/000000000000000077359fa5/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: normal;
+    src: url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/apercu_regular-webfont.ttf');
+  }
+
+  @font-face {
+    font-display: swap;
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 500;
+    src: url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/apercu_medium-webfont.woff2?v=1724167179') format('woff2'),
+      url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/apercu_medium-webfont.woff?v=1724167179') format('woff'),
+      url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/Apercu_Medium.otf?v=1687469760');
+  }
+
+  @font-face {
+    font-display: swap;
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 700;
+    src: url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/apercu_bold-webfont.woff2?v=1724167179') format('woff2'),
+      url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/apercu_bold-webfont.woff?v=1724167179') format('woff'),
+      url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/Apercu_Bold.otf?v=1687469760');
+  }
+
+  @font-face {
+    font-display: swap;
+    font-family: 'Apercu';
+    font-style: italic;
+    font-weight: 700;
+    src: url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/apercu_bold_italic-webfont.woff2?v=1724167179') format('woff2'),
+      url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/apercu_bold_italic-webfont.woff?v=1724167179') format('woff'),
+      url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/Apercu_Bold_Italic.otf?v=1687469759');
+  }
+
+  @font-face {
+    font-display: swap;
+    font-family: 'Apercu';
+    font-style: italic;
+    src: url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/apercu_italic-webfont.woff2?v=1724167179') format('woff2'),
+      url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/apercu_italic-webfont.woff?v=1724167179') format('woff'),
+      url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/Apercu_Italic.otf?v=1687469759');
+  }
+
+  @font-face {
+    font-display: swap;
+    font-family: 'Apercu';
+    font-weight: 300;
+    src: url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/apercu_light-webfont.woff2?v=1724164904') format('woff2'),
+      url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/apercu_light-webfont.woff?v=1724164904') format('woff'),
+      url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/Apercu_Light.otf?v=1687469759') format('otf');
+  }
+
+  @font-face {
+    font-display: swap;
+    font-family: 'Apercu';
+    font-weight: 400;
+    src: url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/apercu_regular-webfont.ttf');
+  }
+
+  @font-face {
+    font-display: swap;
+    font-family: 'Apercu';
+    font-style: italic;
+    font-weight: 300;
+    src: url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/apercu_light_italic-webfont.woff2?v=1724167179') format('woff2'),
+      url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/apercu_light_italic-webfont.woff?v=1724167179') format('woff'),
+      url('https://cdn.shopify.com/s/files/1/0089/4432/0612/files/Apercu_Light_Italic.otf?v=1687469759');
+  }
+
+
+
+.yotpo-reviews-main-widget {
+  --primary-font-family: "Apercu", sans-serif !important;
+  --primary-font-weight: 700 !important;
+  --primary-font-style: normal !important;
+  --secondary-font-family: "Apercu", sans-serif !important;
+  --secondary-font-weight: 400 !important;
+  --secondary-font-style: normal !important;
+}
+
+
+div#yotpo-reviews-main-widget[class*=yotpo-display-][class*=yotpo-device-] .yotpo-layout-header-wrapper .yotpo-bottom-line .yotpo-summary-section {
+    position: absolute;
+    top: 48px;
+}
+
+div#yotpo-reviews-main-widget[class*=yotpo-display-][class*=yotpo-device-] .yotpo-layout-header-wrapper .yotpo-new-review-btn-wrapper button#yotpo-main-widget-btn {
+    background: none;
+    color: var(--text-color);
+    border: none;
+    text-decoration: underline;
+    width: auto;
+    padding: 0;
+    min-width: auto;
+    font-weight: 400;
+}
+
+div#yotpo-reviews-main-widget[class*=yotpo-display-][class*=yotpo-device-] .yotpo-layout-header-wrapper .yotpo-bottom-line .yotpo-star-distribution {
+    margin: 30px 0;
+    border: 2px solid var(--yotpo-separator-line-grey)!important;
+    border-radius:4px;
+    max-width: 350px;
+    width: 100%;
+    justify-content: center;
+    padding: 20px 35px;
+    box-sizing: border-box;
+    row-gap: 8px;
+    margin-top: 0;
+}
+
+div#yotpo-reviews-main-widget[class*=yotpo-display-][class*=yotpo-device-] .yotpo-layout-header-wrapper .yotpo-bottom-line .yotpo-star-distribution .yotpo-star-distribution-row-wrapper {
+    align-items: center;
+}
+
+div#yotpo-reviews-main-widget[class*=yotpo-display-][class*=yotpo-device-] .yotpo-layout-header-wrapper .yotpo-bottom-line .yotpo-star-distribution .yotpo-star-distribution-row-wrapper .yotpo-star-distribution-bar {
+    flex-grow: 1;
+    margin: 0;
+    align-items: center;
+    display: flex;
+    width: 100%;
+}
+
+div#yotpo-reviews-main-widget[class*=yotpo-display-][class*=yotpo-device-] .yotpo-layout-header-wrapper .yotpo-bottom-line .yotpo-star-distribution .yotpo-star-distribution-row-wrapper .yotpo-star-distribution-value {
+    min-width: 20px;
+    height: auto;
+}
+
+div#yotpo-reviews-main-widget[class*=yotpo-display-][class*=yotpo-device-] .yotpo-layout-header-wrapper .yotpo-bottom-line .yotpo-star-distribution .yotpo-star-distribution-row-wrapper .yotpo-star-distribution-bar .yotpo-progress-bar {
+    margin: 0;
+    width: 100%;
+}
+
+div#yotpo-reviews-main-widget[class*=yotpo-display-][class*=yotpo-device-] .yotpo-layout-header-wrapper .yotpo-bottom-line .yotpo-star-distribution .yotpo-star-distribution-row-wrapper svg.yotpo-star-rating-icon.yotpo-sr-star-full {
+    display: none;
+}
+
+div#yotpo-reviews-main-widget[class*=yotpo-display-][class*=yotpo-device-] .yotpo-layout-header-wrapper .yotpo-bottom-line .yotpo-star-distribution .yotpo-star-distribution-row-wrapper .yotpo-star-distribution-index:after {
+    content: "Stars";
+}
+
+div#yotpo-reviews-main-widget[class*=yotpo-display-][class*=yotpo-device-] .yotpo-layout-header-wrapper .yotpo-bottom-line .yotpo-star-distribution .yotpo-star-distribution-row-wrapper:last-child .yotpo-star-distribution-index:after {
+    content: "Star";
+}
+
+div#yotpo-reviews-main-widget[class*=yotpo-display-][class*=yotpo-device-] .yotpo-layout-header-wrapper .yotpo-bottom-line .yotpo-star-distribution .yotpo-star-distribution-row-wrapper .yotpo-star-distribution-index {width: auto;min-width: 45px;text-align: left;}
+
+div#yotpo-reviews-main-widget[class*=yotpo-display-][class*=yotpo-device-] .yotpo-layout-header-wrapper .yotpo-bottom-line .yotpo-star-distribution .yotpo-star-distribution-row-wrapper .yotpo-star-distribution-index-wrapper {
+    width: auto;
+}
+
+div#yotpo-reviews-main-widget[class*=yotpo-display-][class*=yotpo-device-] .yotpo-layout-header-wrapper .yotpo-bottom-line .yotpo-star-distribution .yotpo-star-distribution-row-wrapper .yotpo-star-distribution-bar .yotpo-progress-bar {
+    height: 15px;
+    border-radius: 0;
+}
+
+div#yotpo-reviews-main-widget[class*=yotpo-display-][class*=yotpo-device-] .yotpo-layout-header-wrapper .yotpo-bottom-line .yotpo-star-distribution .yotpo-star-distribution-row-wrapper .yotpo-star-distribution-bar .yotpo-progress-bar .yotpo-progress-bar-score {
+    height: 15px;
+    border-radius: 0;
+}
 
 
 /*# sourceMappingURL=main.css.map */
