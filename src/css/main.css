@@ -227,6 +227,7 @@ div#yotpo-reviews-main-widget[class*="yotpo-display-"][class*="yotpo-device-"] .
     font-family: "freight-display-pro", serif !important;
     font-weight: 400;
     font-size: 30px;
+  color:#000;
 }
 
 div#yotpo-reviews-main-widget[class*="yotpo-display-"][class*="yotpo-device-"] .yotpo-layout-header-wrapper {
