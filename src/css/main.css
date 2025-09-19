@@ -16,7 +16,7 @@ a#yotpo-widget-btn {
 
   background:#F8F8FA;
 }
-div#yotpo-reviews-main-widget[class*="yotpo-display-"][class*="yotpo-device-"] div#yotpo-reviews-container{display:none;}
+#yotpo-reviews-main-widget[class*="yotpo-display-"][class*="yotpo-device-"] div#yotpo-reviews-container{display:none;}
 * {
   box-sizing: border-box;
   -moz-box-sizing: border-box;
